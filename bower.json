@@ -1,0 +1,17 @@
+{
+  "name": "TIY-Catalog",
+  "version": "0.0.0",
+  "homepage": "https://github.com/melrodbos/TIY-Catalog",
+  "authors": [
+    "Melissa Rodríguez <m.rodriguez.bosques@gmail.com>"
+  ],
+  "description": "Don't Stop Believing",
+  "license": "CC0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
