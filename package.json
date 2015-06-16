@@ -1,0 +1,25 @@
+{
+  "name": "TIY-Catalog",
+  "version": "0.0.0",
+  "description": "Don't Stop Believing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melrodbos/TIY-Catalog.git"
+  },
+  "author": "Melissa Rodriguez <m.rodriguez.bosques>",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/melrodbos/TIY-Catalog/issues"
+  },
+  "homepage": "https://github.com/melrodbos/TIY-Catalog#readme",
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "browser-sync": "^2.7.10",
+    "node-sass": "^3.2.0",
+    "wiredep": "^2.2.2"
+  }
+}
