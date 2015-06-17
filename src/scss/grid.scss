@@ -1,0 +1,18 @@
+/* body {
+  margin: 0;
+} */
+.grid {
+  $grid_width: 100%;
+  @extend .clearfix;
+  background-color: cyan;
+  outline: 2px solid red;
+  margin: 0 auto;
+
+
+    .unit {
+      outline: 1px solid purple;
+      float: left;
+      width: ($grid_width/12)*1;
+    }
+
+}
